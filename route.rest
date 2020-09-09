@@ -1,0 +1,12 @@
+GET http://localhost:3000/api/courses
+Content-Type: application/json
+
+{
+	"name": "new course",
+}
+
+###
+
+GET http://localhost:3000/subscribers/5f582eff3cba770a0cad72b7
+
+###
